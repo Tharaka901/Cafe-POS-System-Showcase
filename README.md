@@ -1,4 +1,4 @@
-# ☕ Revon Café POS: Multi-Branch Point of Sale System
+# ☕ Café POS System: Multi-Branch Point of Sale System
 
 A complete, touch-friendly **point of sale and back-office system** for a bakery and café chain. Cashiers take orders and payments quickly at the counter, while owners track sales, branches, shifts and approvals from a live admin dashboard.
 
